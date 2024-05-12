@@ -13,7 +13,3 @@ I'm open to collaborating on projects related to Python backend development, wit
 ## Get in Touch
 
 Feel free to reach out to me via Telegram: @Oberrrr or Discord: ober0. I'm always eager to discuss new ideas and opportunities.
-
-## Fun Fact
-
-In my spare time, I enjoy participating in hackathons and programming competitions. It's not just about the challenge; it's about the thrill of pushing boundaries and creating innovative solutions.
