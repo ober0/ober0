@@ -1,21 +1,19 @@
+# Hi there! 👋
 
- # Привет! 👋
+Welcome to my GitHub profile!
 
-Добро пожаловать на мой профиль GitHub!
+## About Me
 
-## Обо мне
+I'm Ober0 (Ruslan), and I'm passionate about backend development, data processing, and bot creation in the IT sphere. Currently, I'm diving deep into Flask and exploring its capabilities for crafting powerful web applications.
 
-Я Ober0 (Руслан), и я увлечен backend-разработкой, обработкой данных и созданием ботов в IT сфере. В данный момент я погружаюсь в изучение Flask и исследую его возможности для создания мощных веб-приложений.
+## Collaboration
 
-## Сотрудничество
+I'm open to collaborating on projects related to Python backend development, with a special emphasis on Flask. If you have an exciting project in mind, let's connect and bring it to life!
 
-Я открыт для совместной работы над проектами, связанными с backend-разработкой на Python, с особым уклоном в Flask. Если у вас есть интересный проект, давайте свяжемся и воплотим его в жизнь!
+## Get in Touch
 
-## Связь со мной
+Feel free to reach out to me via Telegram: @Oberrrr or Discord: ober0. I'm always eager to discuss new ideas and opportunities.
 
-Не стесняйтесь связаться со мной через Telegram: @Oberrrr или Discord: ober0. Я всегда готов обсудить новые идеи и возможности.
+## Fun Fact
 
-## Интересный факт
-
-В свободное время я люблю участвовать в хакатонах и соревнованиях по программированию. Это не только вызов, но и возможность преодолевать границы и создавать инновационные решения.
-
+In my spare time, I enjoy participating in hackathons and programming competitions. It's not just about the challenge; it's about the thrill of pushing boundaries and creating innovative solutions.
