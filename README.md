@@ -1,15 +1,15 @@
-# Hi there! 👋
+#Hi there! 👋
 
 Welcome to my GitHub profile!
 
-## About Me
+##About Me
 
-I'm Ober0 (Ruslan), and I'm passionate about backend development, data processing, and bot creation in the IT sphere. Currently, I'm diving deep into Flask and exploring its capabilities for crafting powerful web applications.
+I'm Ober0 (Ruslan), and I'm passionate about backend development, data processing, machine learning, and bot creation in the IT field. Currently, I'm diving deep into Django and sklearn.
 
-## Collaboration
+##Collaboration
 
-I'm open to collaborating on projects related to Python backend development, with a special emphasis on Flask. If you have an exciting project in mind, let's connect and bring it to life!
+I'm open to collaborating on projects related to backend development in Python, with a special focus on Flask and Django. If you have an exciting project in mind, let's connect and bring it to life!
 
-## Get in Touch
+##Get in Touch
 
 Feel free to reach out to me via Telegram: @Oberrrr or Discord: ober0. I'm always eager to discuss new ideas and opportunities.
