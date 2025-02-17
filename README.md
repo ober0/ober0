@@ -32,32 +32,33 @@ A platform for personal profiles, photo/video sharing, group creation, and real-
 
 ### 3. **Student-Administration Communication Platform** 
 
-#### pet project
 
 <a href='http://95.164.3.6:8000/'>  
 <img alt="Static Badge" src="https://img.shields.io/badge/Student%20Platform%20(click)-32CD32?style=for-the-badge">  
 </a>  
 
+#### pet project
+
 A robust solution for a college, featuring a full admin panel, automatic spam filtering, hardware/IP bans, and email notifications. Built with Redis and gevent for performance.  
 
 ### 4. **Machine Learning Model Builder**  
 
-#### pet project
-
 <a href='http://95.164.3.6:8003/'>  
 <img alt="Static Badge" src="https://img.shields.io/badge/Machine%20Learning%20Model%20(click)-FF4500?style=for-the-badge">  
 </a>  
+
+#### pet project
 
 A pet project featuring six machine learning algorithms for precise predictions based on custom datasets. Includes API integration and data visualization.  
 
 
 ### 5. **Order & Customer Tracking System**  
 
-#### pet project
-
 <a href='http://95.164.3.6:8001/login/?next=%2Forders%2F&email=test&password=test'>  
 <img alt="Static Badge" src="https://img.shields.io/badge/Order%20Tracking%20(click)-FF1493?style=for-the-badge">  
 </a>  
+
+#### pet project
 
 A flexible pet project with an intuitive admin panel and analytical reports, enabling efficient order and customer management.
 
