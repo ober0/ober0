@@ -17,16 +17,23 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Trading%20Terminal%20(click)-8A2BE2?style=for-the-badge">
 </a>
 
-Gravitino Terminal is a commercial project that aggregates real-time data from four major exchanges (MOEX, Bybit, OKX, BingX). The platform provides historical data, trading capabilities, custom indicators, and AI-driven market predictions. It also includes built-in risk management. As a backend developer, I ensure system stability and scalability.  
+#### commercial project
+
+Gravitino Terminal is a project that aggregates real-time data from four major exchanges (MOEX, Bybit, OKX, BingX). The platform provides historical data, trading capabilities, custom indicators, and AI-driven market predictions. It also includes built-in risk management. As a backend developer, I ensure system stability and scalability.  
 
 ### 2. **Real-Time Social Network with Chat & Notifications**  
 <a href='http://95.164.3.6:8002/email=test@gmail.com&password=test1234'>  
 <img alt="Static Badge" src="https://img.shields.io/badge/Social%20Network%20(click)-1E90FF?style=for-the-badge">  
 </a>  
 
+#### pet project
+
 A platform for personal profiles, photo/video sharing, group creation, and real-time messaging. Supports login notifications on-site and via email.  
 
-### 3. **Student-Administration Communication Platform**  
+### 3. **Student-Administration Communication Platform** 
+
+#### pet project
+
 <a href='http://95.164.3.6:8000/'>  
 <img alt="Static Badge" src="https://img.shields.io/badge/Student%20Platform%20(click)-32CD32?style=for-the-badge">  
 </a>  
@@ -34,6 +41,9 @@ A platform for personal profiles, photo/video sharing, group creation, and real-
 A robust solution for a college, featuring a full admin panel, automatic spam filtering, hardware/IP bans, and email notifications. Built with Redis and gevent for performance.  
 
 ### 4. **Machine Learning Model Builder**  
+
+#### pet project
+
 <a href='http://95.164.3.6:8003/'>  
 <img alt="Static Badge" src="https://img.shields.io/badge/Machine%20Learning%20Model%20(click)-FF4500?style=for-the-badge">  
 </a>  
@@ -42,6 +52,9 @@ A pet project featuring six machine learning algorithms for precise predictions 
 
 
 ### 5. **Order & Customer Tracking System**  
+
+#### commercial project
+
 <a href='http://95.164.3.6:8001/login/?next=%2Forders%2F&email=test&password=test'>  
 <img alt="Static Badge" src="https://img.shields.io/badge/Order%20Tracking%20(click)-FF1493?style=for-the-badge">  
 </a>  
