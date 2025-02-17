@@ -22,7 +22,7 @@
 Gravitino Terminal is a project that aggregates real-time data from four major exchanges (MOEX, Bybit, OKX, BingX). The platform provides historical data, trading capabilities, custom indicators, and AI-driven market predictions. It also includes built-in risk management. As a backend developer, I ensure system stability and scalability.  
 
 ### 2. **Real-Time Social Network with Chat & Notifications**  
-<a href='http://95.164.3.6:8002/email=test@gmail.com&password=test1234'>  
+<a href='http://95.164.3.6:8002/?email=test@gmail.com&password=test1234'>  
 <img alt="Static Badge" src="https://img.shields.io/badge/Social%20Network%20(click)-1E90FF?style=for-the-badge">  
 </a>  
 
