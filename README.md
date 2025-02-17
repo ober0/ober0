@@ -53,7 +53,7 @@ A pet project featuring six machine learning algorithms for precise predictions 
 
 ### 5. **Order & Customer Tracking System**  
 
-#### commercial project
+#### pet project
 
 <a href='http://95.164.3.6:8001/login/?next=%2Forders%2F&email=test&password=test'>  
 <img alt="Static Badge" src="https://img.shields.io/badge/Order%20Tracking%20(click)-FF1493?style=for-the-badge">  
