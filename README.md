@@ -33,7 +33,7 @@ A platform for personal profiles, photo/video sharing, group creation, and real-
 ### 3. **Student-Administration Communication Platform** 
 
 
-<a href='(http://students-feedback.ober0.ru/'>  
+<a href='http://students-feedback.ober0.ru/'>  
 <img alt="Static Badge" src="https://img.shields.io/badge/Student%20Platform%20(click)-32CD32?style=for-the-badge">  
 </a>  
 
