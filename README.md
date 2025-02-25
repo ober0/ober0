@@ -22,7 +22,7 @@
 Gravitino Terminal is a project that aggregates real-time data from four major exchanges (MOEX, Bybit, OKX, BingX). The platform provides historical data, trading capabilities, custom indicators, and AI-driven market predictions. It also includes built-in risk management. As a backend developer, I ensure system stability and scalability.  
 
 ### 2. **Real-Time Social Network with Chat & Notifications**  
-<a href='http://social-net.ober0.ru?email=test@gmail.com&password=test1234'>  
+<a href='https://social-net.ober0.ru?email=test@gmail.com&password=test1234'>  
 <img alt="Static Badge" src="https://img.shields.io/badge/Social%20Network%20(click)-1E90FF?style=for-the-badge">  
 </a>  
 
@@ -33,7 +33,7 @@ A platform for personal profiles, photo/video sharing, group creation, and real-
 ### 3. **Student-Administration Communication Platform** 
 
 
-<a href='http://students-feedback.ober0.ru/'>  
+<a href='https://students-feedback.ober0.ru/'>  
 <img alt="Static Badge" src="https://img.shields.io/badge/Student%20Platform%20(click)-32CD32?style=for-the-badge">  
 </a>  
 
@@ -43,7 +43,7 @@ A robust solution for a college, featuring a full admin panel, automatic spam fi
 
 ### 4. **Machine Learning Model Builder**  
 
-<a href='http://ml-learn.ober0.ru/'>  
+<a href='https://ml-learn.ober0.ru/'>  
 <img alt="Static Badge" src="https://img.shields.io/badge/Machine%20Learning%20Model%20(click)-FF4500?style=for-the-badge">  
 </a>  
 
@@ -54,7 +54,7 @@ A pet project featuring six machine learning algorithms for precise predictions 
 
 ### 5. **Order & Customer Tracking System**  
 
-<a href='http://orders.ober0.ru/login/?next=%2Forders%2F&email=test&password=test'>  
+<a href='https://orders.ober0.ru/login/?next=%2Forders%2F&email=test&password=test'>  
 <img alt="Static Badge" src="https://img.shields.io/badge/Order%20Tracking%20(click)-FF1493?style=for-the-badge">  
 </a>  
 
