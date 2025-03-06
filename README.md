@@ -17,53 +17,47 @@
 ---
 ## My Projects
 
-### 1. **Trading Terminal for Crypto and Stocks**  
+### 1. **Trading Terminal for Crypto and Stocks** <sub>(commercial project)</sub>
 <a href='https://terminal.gravitino.ru/'>
 <img alt="Static Badge" src="https://img.shields.io/badge/Trading%20Terminal%20(click)-8A2BE2?style=for-the-badge">
 </a>
 
-#### commercial project
+#### 
 
 Gravitino Terminal is a project that aggregates real-time data from four major exchanges (MOEX, Bybit, OKX, BingX). The platform provides historical data, trading capabilities, custom indicators, and AI-driven market predictions. It also includes built-in risk management. As a backend developer, I ensure system stability and scalability.  
 
-### 2. **Real-Time Social Network with Chat & Notifications**  
+### 2. **Real-Time Social Network with Chat & Notifications**  <sub>(pet project)</sub> 
 <a href='https://social-net.ober0.ru?email=test@gmail.com&password=test1234'>  
 <img alt="Static Badge" src="https://img.shields.io/badge/Social%20Network%20(click)-1E90FF?style=for-the-badge">  
 </a>  
 
-#### pet project
-
 A platform for personal profiles, photo/video sharing, group creation, and real-time messaging. Supports login notifications on-site and via email.  
 
-### 3. **Student-Administration Communication Platform** 
-
+### 3. **Student-Administration Communication Platform**  <sub>(pet project)</sub>
 
 <a href='https://students-feedback.ober0.ru/'>  
 <img alt="Static Badge" src="https://img.shields.io/badge/Student%20Platform%20(click)-32CD32?style=for-the-badge">  
 </a>  
 
-#### pet project
 
 A robust solution for a college, featuring a full admin panel, automatic spam filtering, hardware/IP bans, and email notifications. Built with Redis and gevent for performance.  
 
-### 4. **Machine Learning Model Builder**  
+### 4. **Machine Learning Model Builder**   <sub>(pet project)</sub>
 
 <a href='https://ml-learn.ober0.ru/'>  
 <img alt="Static Badge" src="https://img.shields.io/badge/Machine%20Learning%20Model%20(click)-FF4500?style=for-the-badge">  
 </a>  
 
-#### pet project
 
 A pet project featuring six machine learning algorithms for precise predictions based on custom datasets. Includes API integration and data visualization.  
 
 
-### 5. **Order & Customer Tracking System**  
+### 5. **Order & Customer Tracking System**   <sub>(pet project)</sub>
 
 <a href='https://orders.ober0.ru/login/?next=%2Forders%2F&email=test&password=test'>  
 <img alt="Static Badge" src="https://img.shields.io/badge/Order%20Tracking%20(click)-FF1493?style=for-the-badge">  
 </a>  
 
-#### pet project
 
 A flexible pet project with an intuitive admin panel and analytical reports, enabling efficient order and customer management.
 
