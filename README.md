@@ -9,7 +9,12 @@
 </div>
 
 ---
-
+## 🚀 Achievements
+- 🥈 2nd place – Moscow City Professional Skills Championship (Machine Learning & Big Data)
+- 🥇 1st place – hackathon "KS54 Hack 2024"
+- 🎖 Semi-finalist – Olympiad "Trajectory of the Future: Python & ML"
+- 📈 Best Development Award – Scientific Conference "Unmanned Technologies & Devices"
+---
 ## My Projects
 
 ### 1. **Trading Terminal for Crypto and Stocks**  
