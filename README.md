@@ -13,7 +13,8 @@
 - 🥈 **2nd place** – Moscow City Professional Skills Championship (Machine Learning & Big Data)
 - 🥇 **1st place** – hackathon "KS54 Hack 2025"
 - 🥇 **1st place** – hackathon "KS54 Hack 2024"
-- 🎖 **Semi-finalist** – Olympiad "Trajectory of the Future: Python & ML"
+- 🙋‍♂️ **Participant** TenderHack 2025 ([Swagger](https://backend.tenderhack.ober0.ru/api))
+- 🎖 **Finalist** – Olympiad "Trajectory of the Future: Python & ML"
 - 📈 **Best Development Award** – Scientific Conference "Unmanned Technologies & Devices"
 ---
 ## My Projects
