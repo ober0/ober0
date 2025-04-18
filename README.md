@@ -2,6 +2,7 @@
     <div id="header" align="center">
         <h1>Hi there, I'm Ruslan</h1>
         <h3>Backend developer from Moscow</h3>
+        <h5>I'm currently delving deeper and prefer working with nestJs</h5>
         <a href="https://t.me/Oberrrr">
             <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
         </a>
