@@ -5,7 +5,8 @@
         <h5>I'm currently deepening my expertise, focusing on NestJS and exploring DevOps technologies.</h5>
         <a href="https://t.me/Oberrrr">
             <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
-        </a><a href="https://github.com/ober0/ober0/blob/main/README-RU.MD">
+        </a>
+        <a href="https://github.com/ober0/ober0/blob/main/README-RU.MD">
             🇷🇺 Русская версия ReadMe
         </a>
     </div>
