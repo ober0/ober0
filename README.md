@@ -1,5 +1,8 @@
-<div align = "center">
+<div align="center">
     <div id="header" align="center">
+        <a href="https://github.com/ober0/ober0/blob/main/README-RU.MD">
+            🇷🇺 Русская версия
+        </a>
         <h1>Hi there, I'm Ruslan</h1>
         <h3>Backend developer from Moscow</h3>
         <h5>I'm currently deepening my expertise, focusing on NestJS and exploring DevOps technologies.</h5>
@@ -8,6 +11,7 @@
         </a>
     </div>
 </div>
+
 
 ---
 ## 🚀 Achievements
