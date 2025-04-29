@@ -60,7 +60,7 @@
 
 – Профили, посты, группы
 – Уведомления на почту 
-- Онлайн чат с помощью SocketIo
+– Онлайн чат с помощью SocketIo
 
 ### ◾ **Student Feedback — платформа отзывов для колледжа**  
 [![Student Platform](https://img.shields.io/badge/Student%20Platform%20(ссылка)-32CD32?style=for-the-badge)](https://students-feedback.ober0.ru/)
@@ -87,7 +87,7 @@
 – NestJs
 
 – Интеграция с моделью OpenAI, загрузка файлов  
-- Умные заметки, чтобы видеть все в 1 месте
+– Умные заметки, чтобы видеть все в 1 месте
 
 ### ◾ **ML Builder — конструктор моделей машинного обучения**  
 [![ML Builder](https://img.shields.io/badge/ML%20Builder%20(ссылка)-FF4500?style=for-the-badge)](https://ml-learn.ober0.ru/)
