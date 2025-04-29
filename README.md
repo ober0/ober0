@@ -29,8 +29,8 @@
 
 
 ### ◾ **Gravitino Terminal — trading platform for crypto and stocks**  
-[![Gravitino Terminal](https://img.shields.io/badge/Gravitino%20Terminal%20(click)-8A2BE2?style=for-the-badge)](https://terminal.gravitino.ru/)
-
+[![Gravitino Terminal](https://img.shields.io/badge/Gravitino%20Terminal%20(click)-8A2BE2?style=for-the-badge)](https://terminal.gravitino.ru/)  
+– NestJs   
 – Connected 5 exchanges: MOEX, Bybit, OKX, BingX, Binance  
 – Implemented an auto-trading bot based on analytics and AI  
 – Set up spot, futures, and options trading  
@@ -38,7 +38,7 @@
 
 
 ### ◾ **ASUR FKR — system for Moscow’s capital repair fund**  
-
+– NestJs   
 – Developed a scalable application with roles and permissions  
 – Implemented creation and management of tasks, contracts, and objects  
 – Integrated S3 storage support  
@@ -59,8 +59,8 @@
 
 
 ### ◾ **Social Net — social network with real-time chat**  
-[![Social Network](https://img.shields.io/badge/Social%20Network%20(click)-1E90FF?style=for-the-badge)](https://social-net.ober0.ru?email=test@gmail.com&password=test1234)
-
+[![Social Network](https://img.shields.io/badge/Social%20Network%20(click)-1E90FF?style=for-the-badge)](https://social-net.ober0.ru?email=test@gmail.com&password=test1234)  
+– Flask   
 – Implemented profiles, posts, groups, and real-time chats  
 – Set up email notifications and WebSocket  
 – Added protection and access control  
@@ -68,16 +68,16 @@
 
 
 ### ◾ **Student Feedback — feedback platform for college**  
-[![Student Platform](https://img.shields.io/badge/Student%20Platform%20(click)-32CD32?style=for-the-badge)](https://students-feedback.ober0.ru/)
-
+[![Student Platform](https://img.shields.io/badge/Student%20Platform%20(click)-32CD32?style=for-the-badge)](https://students-feedback.ober0.ru/)  
+– Django   
 – Built a messaging system between students and administration  
 – Implemented anti-spam and blocking by IP/devices  
 – Set up admin panel and email notifications  
 
 
 ### ◾ **DFitness — personal fitness tracker (in development)**  
-[![DFitness](https://img.shields.io/badge/DFitness%20(click)-00CED1?style=for-the-badge)](https://dfitness.netlify.app/)
-
+[![DFitness](https://img.shields.io/badge/DFitness%20(click)-00CED1?style=for-the-badge)](https://dfitness.netlify.app/)  
+– NestJs   
 – Developed a system for coaches and independent workouts  
 – Program creation, progress tracking, exercise database  
 – Added statistics, reports, roles, and limitations  
@@ -85,8 +85,8 @@
 
 
 ### ◾ **AI Chat — AI chat with files and reminders**  
-[![AI Chat](https://img.shields.io/badge/AI%20Chat%20(click)-FFD700?style=for-the-badge)](https://ks54hack.ober0.ru/signin?email=test@yandex.ru&password=String_1)
-
+[![AI Chat](https://img.shields.io/badge/AI%20Chat%20(click)-FFD700?style=for-the-badge)](https://ks54hack.ober0.ru/signin?email=test@yandex.ru&password=String_1)  
+– NestJs   
 – Connected OpenAI model, added file uploads  
 – Implemented notes, reminders, roles, and limits  
 – Message logic and rate-limiting system were also my responsibility  
@@ -94,8 +94,8 @@
 
 
 ### ◾ **ML Builder — machine learning model constructor**  
-[![ML Builder](https://img.shields.io/badge/Machine%20Learning%20Model%20(click)-FF4500?style=for-the-badge)](https://ml-learn.ober0.ru/)
-
+[![ML Builder](https://img.shields.io/badge/Machine%20Learning%20Model%20(click)-FF4500?style=for-the-badge)](https://ml-learn.ober0.ru/)  
+– Django   
 – Added 6 algorithms and dataset uploads  
 – Implemented charts, model export, and API for integration  
 – Simple interface and fast predictions  
