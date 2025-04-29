@@ -12,83 +12,83 @@
 ---
 ## 🚀 Достижения
 
-- 🥈 **2 место** — Городской чемпионат «Московские мастера» (Машинное обучение и Big Data)  
-- 🙋‍♂️ **Участник** TenderHack 2025 ([Swagger API](https://backend.tenderhack.ober0.ru/api))  
-- 🥇 **1 место** — хакатон "KS54 Hack 2025"  
-- 🥇 **1 место** — хакатон "KS54 Hack 2024"  
-- 🎖 **Финалист** олимпиады «Траектория будущего» (Python и ML)  
+- 🥈 **2 место** — Городской чемпионат «Московские мастера» (Машинное обучение и Big Data)
+- 🙋‍♂️ **Участник** TenderHack 2025 ([Swagger API](https://backend.tenderhack.ober0.ru/api))
+- 🥇 **1 место** — хакатон "KS54 Hack 2025"
+- 🥇 **1 место** — хакатон "KS54 Hack 2024"
+- 🎖 **Финалист** олимпиады «Траектория будущего» (Python и ML)
 - 📈 **Лучший проект** на научной конференции «Беспилотные технологии и устройства»
 
 ---
 
 ## 💼 Коммерческие проекты
 
-### ◾ **Gravitino Terminal — торговая платформа для крипты и акций**  
+### ◾ **Gravitino Terminal — торговая платформа для крипты и акций**
 [![Gravitino Terminal](https://img.shields.io/badge/Gravitino%20Terminal%20(ссылка)-8A2BE2?style=for-the-badge)](https://terminal.gravitino.ru/)
 
-– NestJs 
+– NestJs  
 – Подключил 5 бирж: MOEX, Bybit, OKX, BingX, Binance  
 – Реализовал авто-трейдинг на основе аналитики и ИИ  
 – Настроил торговлю: спот, фьючерсы и опционы  
-– Вебсокеты для мгновенного обновления данных  
+– Вебсокеты для мгновенного обновления данных
 
-### ◾ **АСУР ФКР — система для Фонда капремонта Москвы**  
+### ◾ **АСУР ФКР — система для Фонда капремонта Москвы**
 
-– NestJs 
+– NestJs  
 – Приложение с ролями и правами доступа  
 – Создание и управление задачами, контрактами, объектами  
 – Интеграция с S3-хранилищем  
 – Отдельная админка с фильтрами и отчётами  
-– Высокая скорость отклика и надёжность API  
+– Высокая скорость отклика и надёжность API
 
-### ◾ **ASUR-Core — ядро для модульных систем**  
-– NestJS 
+### ◾ **ASUR-Core — ядро для модульных систем**
+– NestJS  
 – Микросервисная архитектура (NestJS + RabbitMQ)  
-– Быстрая сборка новых систем из готовых модулей  
+– Быстрая сборка новых систем из готовых модулей
 
 ---
 
 ## 🧪 Пет-проекты
 
-### ◾ **Social Net — соцсеть с чатами в реальном времени**  
+### ◾ **Social Net — соцсеть с чатами в реальном времени**
 [![Social Network](https://img.shields.io/badge/Social%20Network%20(ссылка)-1E90FF?style=for-the-badge)](https://social-net.ober0.ru?email=test@gmail.com&password=test1234)
 
 – Flask  
 – Профили, посты, группы  
 – Уведомления на почту  
-– Онлайн чат с помощью SocketIo  
+– Онлайн чат с помощью SocketIo
 
-### ◾ **Student Feedback — платформа отзывов для колледжа**  
+### ◾ **Student Feedback — платформа отзывов для колледжа**
 [![Student Platform](https://img.shields.io/badge/Student%20Platform%20(ссылка)-32CD32?style=for-the-badge)](https://students-feedback.ober0.ru/)
 
 – Django  
-– Возможность для студентов жаловаться на что-либо администрации
-– Блокировки по IP и устройствам, авто-блок за спам
+– Возможность для студентов жаловаться на что-либо администрации  
+– Блокировки по IP и устройствам, авто-блок за спам  
 – Админ-панель и уведомления на почту  
 
-### ◾ **DFitness — персональный фитнес-трекер (в разработке)**  
+### ◾ **DFitness — персональный фитнес-трекер (в разработке)**
 [![DFitness](https://img.shields.io/badge/DFitness%20(ссылка)-00CED1?style=for-the-badge)](https://dfitness.netlify.app/)
 
 – NestJs  
 – Программы для тренировок с тренером или без  
 – База упражнений, трекинг прогресса, отчёты  
 – Статистика, роли, ограничения  
-– В планах — ИИ-ассистент с рекомендациями  
+– В планах — ИИ-ассистент с рекомендациями
 
-### ◾ **AI Chat — ИИ-чат с файлами и напоминаниями**  
+### ◾ **AI Chat — ИИ-чат с файлами и напоминаниями**
 [![AI Chat](https://img.shields.io/badge/AI%20Chat%20(ссылка)-FFD700?style=for-the-badge)](https://ks54hack.ober0.ru/signin?email=test@yandex.ru&password=String_1)
 
 – NestJs  
 – Интеграция с моделью OpenAI, загрузка файлов  
 – Умные заметки, чтобы видеть все в 1 месте
 
-### ◾ **ML Builder — конструктор моделей машинного обучения**  
+### ◾ **ML Builder — конструктор моделей машинного обучения**
 [![ML Builder](https://img.shields.io/badge/ML%20Builder%20(ссылка)-FF4500?style=for-the-badge)](https://ml-learn.ober0.ru/)
 
 – Django, TensorFlow, scikit-learn  
 – 6 алгоритмов машинного обучения, загрузка датасетов  
 – Графики, экспорт моделей, API  
-– Удобный интерфейс и быстрая работа  
+– Удобный интерфейс и быстрая работа
 
 ---
 
@@ -100,13 +100,13 @@
 
 ## ⚡ Технологии
 
-#### 🔥 **Backend Frameworks & Libraries**  
+#### 🔥 **Backend Frameworks & Libraries**
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-#### 💾 **Databases & ORMs**  
+#### 💾 **Databases & ORMs**
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -117,23 +117,23 @@
 
 
 
-#### ⚙️ **Infrastructure & Deployment**  
+#### ⚙️ **Infrastructure & Deployment**
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-#### 🔄 **Messaging & Asynchronous Processing**  
+#### 🔄 **Messaging & Asynchronous Processing**
 ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
 ![Websockets](https://img.shields.io/badge/Websockets-1f425f?style=for-the-badge&logo=websockets&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Static Badge](https://img.shields.io/badge/Gevent-8A2BE2?style=for-the-badge)
 
-####  **Authentication & Security**  
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+####  **Authentication & Security**
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Static Badge](https://img.shields.io/badge/Hash%20Lib-8A2BE2?style=for-the-badge)
 
-#### 📊 **Data Science & ML**  
+#### 📊 **Data Science & ML**
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logo)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -151,6 +151,4 @@
 ##  🔥 Статистика :
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ober0&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![Streak Statistics](https://github-readme-streak-stats.herokuapp.com/?user=ober0&theme=dark&hide_border=true)          
-
 ![Streak Statistics](https://github-readme-streak-stats.herokuapp.com/?user=ober0&theme=dark&hide_border=true)
