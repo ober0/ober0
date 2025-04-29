@@ -27,6 +27,7 @@
 [![Gravitino Terminal](https://img.shields.io/badge/Gravitino%20Terminal%20(ссылка)-8A2BE2?style=for-the-badge)](https://terminal.gravitino.ru/)
 
 – NestJs
+
 – Подключил 5 бирж: MOEX, Bybit, OKX, BingX, Binance  
 – Реализовал авто-трейдинг на основе аналитики и ИИ  
 – Настроил торговлю: спот, фьючерсы и опционы  
@@ -35,6 +36,7 @@
 ### ◾ **АСУР ФКР — система для Фонда капремонта Москвы**  
 
 – NestJs
+
 – Приложение с ролями и правами доступа  
 – Создание и управление задачами, контрактами, объектами  
 – Интеграция с S3-хранилищем  
@@ -42,6 +44,7 @@
 – Высокая скорость отклика и надёжность API  
 
 ### ◾ **ASUR-Core — ядро для модульных систем**  
+– NestJS
 
 – Микросервисная архитектура (NestJS + RabbitMQ)  
 – Быстрая сборка новых систем из готовых модулей  
@@ -54,6 +57,7 @@
 [![Social Network](https://img.shields.io/badge/Social%20Network%20(ссылка)-1E90FF?style=for-the-badge)](https://social-net.ober0.ru?email=test@gmail.com&password=test1234)
 
 – Flask
+
 – Профили, посты, группы
 – Уведомления на почту 
 - Онлайн чат с помощью SocketIo
@@ -62,6 +66,7 @@
 [![Student Platform](https://img.shields.io/badge/Student%20Platform%20(ссылка)-32CD32?style=for-the-badge)](https://students-feedback.ober0.ru/)
 
 – Django
+
 – Возможность для студентов жаловаться на что-либо администрации
 – Блокировки по IP и устройствам, авто-блок за спам
 – Админ-панель и уведомления на почту  
@@ -70,6 +75,7 @@
 [![DFitness](https://img.shields.io/badge/DFitness%20(ссылка)-00CED1?style=for-the-badge)](https://dfitness.netlify.app/)
 
 – NestJs
+
 – Программы для тренировок с тренером или без  
 – База упражнений, трекинг прогресса, отчёты  
 – Статистика, роли, ограничения  
@@ -79,6 +85,7 @@
 [![AI Chat](https://img.shields.io/badge/AI%20Chat%20(ссылка)-FFD700?style=for-the-badge)](https://ks54hack.ober0.ru/signin?email=test@yandex.ru&password=String_1)
 
 – NestJs
+
 – Интеграция с моделью OpenAI, загрузка файлов  
 - Умные заметки, чтобы видеть все в 1 месте
 
@@ -86,6 +93,7 @@
 [![ML Builder](https://img.shields.io/badge/ML%20Builder%20(ссылка)-FF4500?style=for-the-badge)](https://ml-learn.ober0.ru/)
 
 – Django, TensorFlow, scikit-learn
+
 – 6 алгоритмов машинного обучения, загрузка датасетов  
 – Графики, экспорт моделей, API  
 – Удобный интерфейс и быстрая работа  
