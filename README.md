@@ -125,7 +125,9 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLALCHEMY-D71F00?style=for-the-badge&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Django%20ORM-8A2BE2?style=for-the-badge)
 
+#### Message Brokers
 
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 #### ⚙️ **Infrastructure & Deployment**  
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
