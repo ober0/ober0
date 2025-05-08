@@ -56,6 +56,14 @@
 
 ## 🧪 **Pet Projects**
 
+### ◾ **DFitness — personal fitness tracker (in development)**  
+[![DFitness](https://img.shields.io/badge/DFitness%20(click)-00CED1?style=for-the-badge)](https://dfitness.netlify.app/)  
+– NestJs   
+– Developed a system for coaches and independent workouts  
+– Program creation, progress tracking, exercise database  
+– Added statistics, reports, roles, and limitations  
+– Planned — AI assistant with personal recommendations  
+
 
 
 ### ◾ **Social Net — social network with real-time chat**  
@@ -75,13 +83,6 @@
 – Set up admin panel and email notifications  
 
 
-### ◾ **DFitness — personal fitness tracker (in development)**  
-[![DFitness](https://img.shields.io/badge/DFitness%20(click)-00CED1?style=for-the-badge)](https://dfitness.netlify.app/)  
-– NestJs   
-– Developed a system for coaches and independent workouts  
-– Program creation, progress tracking, exercise database  
-– Added statistics, reports, roles, and limitations  
-– Planned — AI assistant with personal recommendations  
 
 
 ### ◾ **AI Chat — AI chat with files and reminders**  
