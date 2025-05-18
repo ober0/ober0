@@ -28,6 +28,15 @@
 ## 💼 **Commercial Projects**
 
 
+### ◾ **ERP - system for accounting of employees, documentation, material assets, electronic signatures, etc.**  
+
+– NestJs   
+– Built a microservice architecture using `@nestjs/microservices` + RabbitMQ   
+– Several independent databases are used with encryption and data storage in accordance with Federal Law 152  
+– Various integrations with other systems   
+– Enabled fast assembly of new systems from prebuilt modules  
+
+
 ### ◾ **Gravitino Terminal — trading platform for crypto and stocks**  
 [![Gravitino Terminal](https://img.shields.io/badge/Gravitino%20Terminal%20(click)-8A2BE2?style=for-the-badge)](https://terminal.gravitino.ru/)  
 – NestJs   
@@ -44,13 +53,6 @@
 – Integrated S3 storage support  
 – Created a separate admin panel with filters and reports  
 – Ensured high performance of requests
-
-
-
-### ◾ **ASUR-Core — core for modular systems**  
-
-– Built a microservice architecture using `@nestjs/microservices` + RabbitMQ  
-– Enabled fast assembly of new systems from prebuilt modules  
 
 ---
 
