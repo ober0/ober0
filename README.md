@@ -32,6 +32,7 @@
 
 – NestJs   
 – Built a microservice architecture using `@nestjs/microservices` + RabbitMQ   
+– Сonfigured openTraicing and jaeger, interceptors for data forwarding   
 – Several independent databases are used with encryption and data storage in accordance with Federal Law 152  
 – Various integrations with other systems   
 – Enabled fast assembly of new systems from prebuilt modules  
