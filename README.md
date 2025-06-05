@@ -138,6 +138,8 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![OpenTraicer](https://img.shields.io/badge/OpenTraicer-D71F00?style=for-the-badge&logoColor=white&logoSize=auto)
+![Jaeger](https://img.shields.io/badge/jaeger-%23323330.svg?style=for-the-badge&logoColor=%23F7DF1E)
 
 #### 🔄 **Messaging & Asynchronous Processing**  
 ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
