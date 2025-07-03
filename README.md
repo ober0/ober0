@@ -39,7 +39,7 @@
 
 
 ### ◾ **Gravitino Terminal — trading platform for crypto and stocks**  
-[![Gravitino Terminal](https://img.shields.io/badge/Gravitino%20Terminal%20(click)-8A2BE2?style=for-the-badge)](https://terminal.gravitino.ru/)  
+[![Gravitino Terminal](https://img.shields.io/badge/Gravitino%20Terminal%20(click)-8A2BE2?style=for-the-badge)](https://terminal-trading.com/)     
 – NestJs   
 – Connected 5 exchanges: MOEX, Bybit, OKX, BingX, Binance  
 – Implemented an auto-trading bot based on analytics and AI  
