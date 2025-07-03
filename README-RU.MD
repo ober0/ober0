@@ -34,7 +34,7 @@
 
 
 ### ◾ **Gravitino Terminal — торговая платформа для крипты и акций**
-[![Gravitino Terminal](https://img.shields.io/badge/Gravitino%20Terminal%20(ссылка)-8A2BE2?style=for-the-badge)](https://terminal.gravitino.ru/)
+[![Gravitino Terminal](https://img.shields.io/badge/Gravitino%20Terminal%20(click)-8A2BE2?style=for-the-badge)](https://terminal-trading.com/)   
 
 – NestJs  
 – Подключил 5 бирж: MOEX, Bybit, OKX, BingX, Binance  
