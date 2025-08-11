@@ -23,8 +23,12 @@
 
 ### ◾ ** Попробуйте Fitzy — персональный фитнес-трекер (в разработке)**
 [![Fitzy](https://img.shields.io/badge/Fitzy%20(ссылка)-00CED1?style=for-the-badge)](https://fitzy.ru/)
-![Fitzy](./fitzy1.png)
-![Fitzy](./fitzy2.png)
+
+<p>
+  <img src="./fitzy1.png" alt="Fitzy" width="800"/>
+  <img src="./fitzy2.png" alt="Fitzy" width="800"/>
+</p>
+
 ---
 
 ## 💻 Языки программирования
