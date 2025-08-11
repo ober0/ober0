@@ -23,86 +23,14 @@
 - 🎖 **Finalist** – Olympiad "Trajectory of the Future: Python & ML"
 - 📈 **Best Development Award** – Scientific Conference "Unmanned Technologies & Devices"
 
----
 
-## 💼 **Commercial Projects**
-
-
-### ◾ **ERP - system for accounting of employees, documentation, material assets, electronic signatures, etc.**  
-
-– NestJs   
-– Built a microservice architecture using `@nestjs/microservices` + RabbitMQ   
-– Сonfigured openTraicing and jaeger, interceptors for data forwarding   
-– Several independent databases are used with encryption and data storage in accordance with Federal Law 152  
-– Various integrations with other systems   
-– Enabled fast assembly of new systems from prebuilt modules  
-
-
-### ◾ **Gravitino Terminal — trading platform for crypto and stocks**  
-[![Gravitino Terminal](https://img.shields.io/badge/Gravitino%20Terminal%20(click)-8A2BE2?style=for-the-badge)](https://terminal-trading.com/)     
-– NestJs   
-– Connected 5 exchanges: MOEX, Bybit, OKX, BingX, Binance  
-– Implemented an auto-trading bot based on analytics and AI  
-– Set up spot, futures, and options trading  
-– Enabled real-time data updates via WebSocket
-
-
-### ◾ **ASUR FKR — system for Moscow’s capital repair fund**  
-– NestJs   
-– Developed a scalable application with roles and permissions  
-– Implemented creation and management of tasks, contracts, and objects  
-– Integrated S3 storage support  
-– Created a separate admin panel with filters and reports  
-– Ensured high performance of requests
-
----
-
-## 🧪 **Pet Projects**
-
-### ◾ **DFitness — personal fitness tracker (in development)**  
-[![DFitness](https://img.shields.io/badge/DFitness%20(click)-00CED1?style=for-the-badge)](https://dfitness.netlify.app/)  
+### ◾ **Try Fitzy — personal fitness tracker **  
+[![Fitzt](https://img.shields.io/badge/Fitzy%20(click)-00CED1?style=for-the-badge)](https://fitzy.ru/)  
 – NestJs   
 – Developed a system for coaches and independent workouts  
 – Program creation, progress tracking, exercise database  
 – Added statistics, reports, roles, and limitations  
 – Planned — AI assistant with personal recommendations  
-
-
-
-### ◾ **Social Net — social network with real-time chat**  
-[![Social Network](https://img.shields.io/badge/Social%20Network%20(click)-1E90FF?style=for-the-badge)](https://social-net.ober0.ru?email=test@gmail.com&password=test1234)  
-– Flask   
-– Implemented profiles, posts, groups, and real-time chats  
-– Set up email notifications and WebSocket  
-– Added protection and access control  
-
-
-
-### ◾ **Student Feedback — feedback platform for college**  
-[![Student Platform](https://img.shields.io/badge/Student%20Platform%20(click)-32CD32?style=for-the-badge)](https://students-feedback.ober0.ru/)  
-– Django   
-– Built a messaging system between students and administration  
-– Implemented anti-spam and blocking by IP/devices  
-– Set up admin panel and email notifications  
-
-
-
-
-### ◾ **AI Chat — AI chat with files and reminders**  
-[![AI Chat](https://img.shields.io/badge/AI%20Chat%20(click)-FFD700?style=for-the-badge)](https://ks54hack.ober0.ru/signin?email=test@yandex.ru&password=String_1)  
-– NestJs   
-– Connected OpenAI model, added file uploads  
-– Implemented notes, reminders, roles, and limits  
-– Message logic and rate-limiting system were also my responsibility  
-
-
-
-### ◾ **ML Builder — machine learning model constructor**  
-[![ML Builder](https://img.shields.io/badge/Machine%20Learning%20Model%20(click)-FF4500?style=for-the-badge)](https://ml-learn.ober0.ru/)  
-– Django   
-– Added 6 algorithms and dataset uploads  
-– Implemented charts, model export, and API for integration  
-– Simple interface and fast predictions  
 
 ---
 
