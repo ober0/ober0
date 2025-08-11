@@ -33,6 +33,11 @@
 – Added statistics, reports, roles, and limitations  
 – Planned — AI assistant with personal recommendations  
 
+<p>
+  <img src="./fitzy1.png" alt="Fitzy" width="300"/>
+  <img src="./fitzy2.png" alt="Fitzy" width="300"/>
+</p>
+
 ---
 
 ## 💻 Languages 
