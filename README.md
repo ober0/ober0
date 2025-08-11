@@ -23,8 +23,9 @@
 - 🎖 **Finalist** – Olympiad "Trajectory of the Future: Python & ML"
 - 📈 **Best Development Award** – Scientific Conference "Unmanned Technologies & Devices"
 
+---
 
-### ◾ **Try Fitzy — personal fitness tracker **  
+### ◾ ** Try Fitzy — personal fitness tracker **  
 [![Fitzt](https://img.shields.io/badge/Fitzy%20(click)-00CED1?style=for-the-badge)](https://fitzy.ru/)  
 – NestJs   
 – Developed a system for coaches and independent workouts  
