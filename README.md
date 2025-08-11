@@ -34,8 +34,8 @@
 – Planned — AI assistant with personal recommendations  
 
 <p>
-  <img src="./fitzy1.png" alt="Fitzy" width="300"/>
-  <img src="./fitzy2.png" alt="Fitzy" width="300"/>
+  <img src="./fitzy1.png" alt="Fitzy" width="800"/>
+  <img src="./fitzy2.png" alt="Fitzy" width="800"/>
 </p>
 
 ---
