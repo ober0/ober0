@@ -24,10 +24,7 @@
 ### ◾ ** Попробуйте Fitzy — персональный фитнес-трекер **
 [![Fitzy](https://img.shields.io/badge/Fitzy%20(ссылка)-00CED1?style=for-the-badge)](https://fitzy.ru/)
 
-<p>
-  <img src="./fitzy1.png" alt="Fitzy" width="800"/>
-  <img src="./fitzy2.png" alt="Fitzy" width="800"/>
-</p>
+<img src="./fitzy2.png" alt="Fitzy" width="800"/>
 
 ---
 
