@@ -2,7 +2,7 @@
     <div id="header" align="center">
         <h1>Привет, я Руслан</h1>
         <h3>Backend developer from Moscow</h3>
-        <h5>Сейчас активно углубляюсь в NestJS и осваиваю DevOps-инструменты</h5>
+        <h5>Сейчас активно углубляюсь в NestJS, Discord.js и CI/CD</h5>
         <a href="https://t.me/Oberrrr">
             <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
         </a>
@@ -21,12 +21,6 @@
 
 ---
 
-### ◾ ** Попробуйте Fitzy — персональный фитнес-трекер **
-[![Fitzy](https://img.shields.io/badge/Fitzy%20(ссылка)-00CED1?style=for-the-badge)](https://fitzy.ru/)
-
-<img src="./fitzy2.png" alt="Fitzy" width="800"/>
-
----
 
 ## 💻 Языки программирования
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,18 +32,25 @@
 
 #### 🔥 **Backend Frameworks & Libraries**
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/express-%298729.svg?style=for-the-badge&logo=express&logoColor=white)
+![Discord.js](https://img.shields.io/badge/discord.js-black.svg?style=for-the-badge)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-#### 💾 **Databases & ORMs**
+#### 💾 **Databases & ORMs**  
+###### Main
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-23FF6F00?style=for-the-badge&logo=drizzle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+###### Rest
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLALCHEMY-D71F00?style=for-the-badge&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Django%20ORM-8A2BE2?style=for-the-badge)
+
 
 #### Message Brokers
 
