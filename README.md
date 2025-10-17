@@ -25,7 +25,7 @@
 
 ---
 
-### ◾ ** Fitzy — personal fitness tracker **  
+###  Fitzy — personal fitness tracker
 
 – Developed a system for coaches and independent workouts  
 – Program creation, progress tracking, exercise database  
