@@ -25,8 +25,7 @@
 
 ---
 
-### ◾ ** Try Fitzy — personal fitness tracker **  
-[![Fitzt](https://img.shields.io/badge/Fitzy%20(click)-00CED1?style=for-the-badge)](https://fitzy.ru/)  
+### ◾ ** Fitzy — personal fitness tracker **  
 
 – Developed a system for coaches and independent workouts  
 – Program creation, progress tracking, exercise database  
