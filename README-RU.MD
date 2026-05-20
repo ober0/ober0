@@ -3,9 +3,6 @@
         <h1>Привет, я Руслан</h1>
         <h3>Backend developer from Moscow</h3>
         <h5>Сейчас активно углубляюсь в NestJS, Discord.js и CI/CD</h5>
-        <a href="https://t.me/Oberrrr">
-            <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
-        </a>
     </div>
 </div>
 
